@@ -4,7 +4,7 @@ e = pd.read_excel("Email.xlsx")
 x = e['Emails'].values
 
 # print(emails)  
-#  print(x)
+# print(x)
 k=0
 for i in x:
     if emails == i:
