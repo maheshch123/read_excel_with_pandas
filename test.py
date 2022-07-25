@@ -5,6 +5,7 @@ x = e['Emails'].values
 
 # print(emails)  
 # print(x)
+
 k=0
 for i in x:
     if emails == i:
